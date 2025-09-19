@@ -14,7 +14,7 @@ To set up the **React Native** and create a **To-Do List App** that allows users
 
 2. **Project Creation**
 
-   * Created a new project named **`ToDoApp`** using React Native.
+   * Created a new project named **`TodoListApp`** using React Native.
    * Installed required dependencies (default React Native packages).
 
 3. **UI Design (`App.js`)**
@@ -59,4 +59,5 @@ To set up the **React Native** and create a **To-Do List App** that allows users
 * **Initial Screen** → Empty task list with input field and `"Add"` button.
 * **Add Task** → Typing a task and pressing `"Add"` displays it in the list.
 * **Toggle Task** → Tapping the checkbox marks it ✅ completed with strike-through text.
+
 * **Delete Task** → Pressing ❌ removes the selected task.
