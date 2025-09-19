@@ -8,7 +8,7 @@ To set up the *Flutter SDK* and create a simple *Calculator App* that can perfor
 
 1. Installed the *Flutter SDK* and configured environment variables.
 2. Installed *Android Studio / VS Code* with Flutter and Dart plugins.
-3. Created a new Flutter project named *calculator1*.
+3. Created a new Flutter project named *calculator*.
 4. Modified the pubspec.yaml file to add the dependency:
 
    * math_expressions: ^2.5.0 (used for evaluating expressions).
@@ -48,4 +48,5 @@ A few resources to get you started if this is your first Flutter project:
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
+
 samples, guidance on mobile development, and a full API reference.
