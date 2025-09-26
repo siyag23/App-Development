@@ -38,7 +38,7 @@ To design a mobile-friendly, user-friendly registration form using Figma that in
   - Easy to navigate and understand
   - Mobile-responsive and user-friendly
 
-## Actual Output (Screenshot)
+## Actual Output 
 
 [Registration Form UI](./output.png)
 Figma Design: [👉 Click to View Figma Design](https://www.figma.com/design/CrXjhFZLG5J1glPs4yB2AF/Untitled?node-id=0-1&t=czjaNqj0gf5DdjgZ-1)
@@ -46,3 +46,4 @@ Figma Prototype:[👉 Click to View Figma Prototype](https://www.figma.com/proto
 
 ## Conclusion
 The registration form was successfully designed in **Figma**, showcasing multiple input types (text fields, radio buttons, dropdowns, and checkbox) in a clean, modern interface. The experiment demonstrates how to combine UI components while applying UI/UX principles such as spacing, alignment, contrast, and visual hierarchy.
+
