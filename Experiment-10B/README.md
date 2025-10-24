@@ -10,7 +10,7 @@ To develop a **React Native To-Do List app** that allows users to **add, update,
 1. **Project Setup**
    - Created a new React Native project using Expo:
      ```bash
-     expo init todo_app
+     expo init firebasetodolist
      ```
    - Installed Firebase SDK:
      ```bash
@@ -71,3 +71,4 @@ To develop a **React Native To-Do List app** that allows users to **add, update,
 - Users can add, delete, and mark tasks as completed.
 - Real-time updates and persistent storage across app sessions.
 - Clean and responsive UI with interactive elements.
+
