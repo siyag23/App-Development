@@ -1,4 +1,4 @@
-# Experiment 12: Implement User Authentication with Firebase in Flutter
+# Experiment 12: Implement User Authentication with Firebase in Flutter App
 
 ---
 
@@ -135,4 +135,5 @@ Successfully developed a Flutter app named **Authentication** integrating **Fire
 - **Automatic Session Management**
 
 The app provides a complete, secure, and user-friendly authentication system.
+
 
