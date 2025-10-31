@@ -1,4 +1,4 @@
-# Experiment 10: Firebase Calculator App (Flutter)
+# Experiment 10: Calculator App (Flutter) using Firebase Firestore
 
 ## Experiment Aim
 To develop a **Flutter calculator app** that performs basic arithmetic operations and **stores/retrieves calculation history using Firebase Firestore**, enabling users to access their previous calculations across devices.
@@ -86,3 +86,4 @@ To develop a **Flutter calculator app** that performs basic arithmetic operation
 - Persistent history across app sessions and devices.
 - Clean, responsive interface with color-coded buttons.
 - Robust handling of errors (division by zero, invalid input).
+
