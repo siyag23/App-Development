@@ -1,4 +1,4 @@
-# Experiment 10: To-Do List App (React Native) using Firebase 
+# Experiment 10: To-Do List App (React Native) using Firebase Firestore
 
 ## Experiment Aim
 To develop a **React Native To-Do List app** that allows users to **add, update, delete, and mark tasks as completed** while storing all task data in **Firebase Firestore**, enabling real-time synchronization and persistent storage across devices.
@@ -71,4 +71,5 @@ To develop a **React Native To-Do List app** that allows users to **add, update,
 - Users can add, delete, and mark tasks as completed.
 - Real-time updates and persistent storage across app sessions.
 - Clean and responsive UI with interactive elements.
+
 
