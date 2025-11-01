@@ -78,21 +78,6 @@ The app supports **Email/Password**, **Google Sign-In**, and **Phone Number Veri
 
 ---
 
-- [MainActivity.java](./MainActivity.java)  
-- [LoginActivity.java](./LoginActivity.java)  
-- [RegisterActivity.java](./RegisterActivity.java)  
-- [SignupActivity.java](./SignupActivity.java)  
-- [PhoneAuthActivity.java](./PhoneAuthActivity.java)  
-- [GoogleSignInActivity.java](./GoogleSignInActivity.java)  
-- [activity_login.xml](./activity_login.xml)  
-- [activity_register.xml](./activity_register.xml)  
-- [activity_signup.xml](./activity_signup.xml)  
-- [activity_phone_auth.xml](./activity_phone_auth.xml)  
-- [activity_main.xml](./activity_main.xml)  
-- [edittext_bg.xml](./edittext_bg.xml)  
-
----
-
 ## Expected Output
 - **Login Screen:** Users can log in using Email/Password, Google, or Phone Number.  
 - **Register Screen:** New users can register and create accounts.  
@@ -113,3 +98,4 @@ Successfully developed an **Android app** named **FirebaseAuthApp** integrating 
 The app provides a secure, efficient, and user-friendly authentication system using **Firebase services**.
 
 ---
+
