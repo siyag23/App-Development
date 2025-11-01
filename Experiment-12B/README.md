@@ -142,18 +142,6 @@ The app supports **Email/Password**, **Google Sign-In**, and **Phone Number Veri
 
 ---
 
-## Source Code
-- [App.js](./App.js)  
-- [firebaseConfig.js](./firebaseConfig.js)  
-- [LoginScreen.js](./screens/LoginScreen.js)  
-- [SignupScreen.js](./screens/SignupScreen.js)  
-- [HomeScreen.js](./screens/HomeScreen.js)  
-- [GoogleSignIn.js](./screens/GoogleSignIn.js)  
-- [PhoneSignInScreen.js](./screens/PhoneSignInScreen.js)  
-- [ForgotPasswordScreen.js](./screens/ForgotPasswordScreen.js)
-
----
-
 ## Expected Output
 - **Login Screen:** User can log in using Email/Password, Google, or Phone Number.  
 - **Signup Screen:** New users can register using Email and Password.  
@@ -176,3 +164,4 @@ Successfully developed a **React Native app** named **Authentication** integrati
 The app provides a secure, efficient, and user-friendly authentication system using Firebase services.
 
 ---
+
